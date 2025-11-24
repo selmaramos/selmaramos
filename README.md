@@ -9,18 +9,21 @@ eficientes.
 práticas e design de sistemas.
 
 🌱 Atualmente estudando
+
 ⦁	Lógica de programação\
 ⦁	Programação em Python\
 ⦁	Modelagem UML\
 ⦁	Fundamentos de desenvolvimento de softWare
 
 🛠️ Tecnologias e Ferramentas
+
 ⦁	Linguagens: Python (iniciando)\
 ⦁	Ferramentas: Git, GitHub, VS Code, Flowgorithm\
 ⦁	Interesses: Backend, arquitetura de software, análise e projeto
 de sistemas
 
 📚 Projetos em desenvolvimento
+
 ⦁	Estudos e exercícios da faculdade\
 ⦁	Pequenos projetos para treinar lógica e programação\
 ⦁	Modelos UML para sistemas acadêmicos
